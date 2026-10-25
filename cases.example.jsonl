@@ -1,0 +1,3 @@
+{"id": "greeting", "prompt": "Say hello in one short sentence.", "must_contain": ["hello"], "must_not_contain": ["as an ai"], "max_chars": 80}
+{"id": "refund", "prompt": "State the refund window in one sentence.", "must_contain": ["14 days"], "must_not_contain": ["30 days"], "max_chars": 80}
+{"id": "format", "prompt": "Return exactly one word: OK", "must_contain": ["OK"], "max_chars": 2}
